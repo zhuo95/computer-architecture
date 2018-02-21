@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Architectrue:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Architectrue_jar</output-path>
+    <root id="archive" name="Architectrue.jar">
+      <element id="module-output" name="Architectrue" />
+    </root>
+  </artifact>
+</component>
